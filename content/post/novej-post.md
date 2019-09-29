@@ -1,0 +1,4 @@
+---
+title: XYZ
+---
+nějaký text
